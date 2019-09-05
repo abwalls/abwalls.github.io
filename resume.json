@@ -1,0 +1,225 @@
+{
+  "name": "Andrew Walls",
+  "meta": {
+    "format": "FRESH@0.6.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "Junior Software & Web Developer",
+    "brief": "<a href='https://www.linkedin.com/in/andrew-walls-a88a0b14/'>LinkedIn</a><a href='https://github.com/abwalls'>      GitHub</a> <a href='https://www.steemit.com/@abwalls'>   Steemit</a><br>Soon to be college graduate majoring in Computer Science with passion for development and technology",
+    "image": ""
+  },
+  "contact": {
+    "website": "",
+    "phone": "(484)951-5591",
+    "email": "andrew-walls@live.com",
+    "other": "github.com/abwalls"
+  },
+  "location": {
+    "address": "7424 Allemaengel Road",
+    "city": "New Tripoli",
+    "region": "PA",
+    "code": "18066",
+    "country": "US"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "user": "abwalls",
+      "url": "https://github.com/abwalls"
+    }
+  ],
+  "employment": {
+    "summary": "Optional overall employment summary. Not used in most themes.",
+    "history": [
+      {
+        "employer": "Whole Foods Market",
+        "url": "https://www.wholefoodsmarket.com/stores/allentown",
+        "position": "Grocery Team Member",
+        "summary": "<p style='margin-right: 135px;'>Part-time overnight team member primarily responsible for receiving trucks and stocking shelves to company standards</p>",
+        "start": "2016-09",
+        "keywords": [
+          
+        ],
+        "highlights": [
+          "Multiple 'Whole Bean' awards for performing beyond expectations",
+          "Trained and certified to use electric pallet jack and loading dock",
+          "<p style='margin-right: 160px;'>Adjusted well to the new culture and protocols following Amazon's acquisition of the company due to my previous experience working at the Amazon fulfillment center</p>"
+        ]
+      },
+      {
+        "employer": "Responsible Recycling Services LLC",
+        "url": "http://responsiblerecyclingservices.com",
+        "position": "Sales/Technical Support",
+        "summary": "<p style='margin-right: 135px;'>Early arriver to a small start-up company specializing in electronics recycling where I gained experience doing a little bit of everything needed to start and grow the business</p>",
+        "start": "2012-06",
+        "end": "2016-09",
+        "keywords": [
+          
+        ],
+        "highlights": [
+          "<p style='margin-right: 160px;'>Led effort to refurbish and resell items online bringing in additional revenue for the company</p>",
+          "<p style='margin-right: 160px;'>Provided technical support to office staff and maintained all office equipment, almost always done using only recycled parts</p>",
+          "<p style='margin-right: 160px;'>Helped in warehouse and at recycling events including frequent use of forklift</p>"
+        ]
+      },
+     {
+        "employer": "Integrity Staffing Solutions/Amazon.com",
+        "url": "http://amazon.com",
+        "position": "Warehouse Associate",
+        "summary": "<p style='margin-right: 135px;'>Started off working through temporary employment service, but quickly hired on directly by Amazon.com to work in the ABE2 fulfillment center</p>",
+        "start": "2011-04",
+        "end": "2012-03",
+        "keywords": [
+          
+        ],
+        "highlights": [
+          "<p style='margin-right: 160px;'>Performed in multiple capacities throughout the fulfillment center but primarily on the receiving end</p>",
+          "<p style='margin-right: 160px;'>Worked during peak season averaging between 50-60 hours every week for a long stretch of time</p>",
+          "<p style='margin-right: 160px;'>Given expert permissions after successfully passing audits to work as a problem solver</p>"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Hitchcoin Mobile Ride Sharing Application",
+      "category": "FOSS",
+      "url": "https://github.com/abwalls/Hitchcoin",
+      "repo": "https://github.com/abwalls/Hitchcoin",
+      "start": "2018-08",
+      "media": [],
+      "role": "Project Manager",
+      "summary": "<p style='margin-right: 120px;'>First experience leading a team through the full development process. We started with class/uml diagrams, software development and requirement specification sheets, flow-charts, etc. and eventually began coding our project. While we fell short of our original goals for the project in the given time frame, the agile development process gave us a working prototype meeting all of our architectural needs while leaving many of the desired features to be completed down the road</p>",
+      "highlights": [
+        "<p style='margin-right: 140px;'>Built a cross-platform mobile application (iOS and Android) using JavaScript and the React Native Library</p>",
+        "<p style='margin-right: 140px;'>Used all AWS cloud based resources including: AppSync, Cognito, DynamoDB, GraphQL API, Lambda, Pinpoint Analytics, S3, and more...</p>",
+        "<p style='margin-right: 140px;'>Learned how to collaborate effectively using online tools to work concurrently on the same code base</p>"
+      ],
+      "keywords": [
+       
+      ]
+    },
+    {
+      "title": "Concurrent, Connection-Based Download Server",
+      "category": "FOSS",
+      "url": "https://github.com/abwalls/Concurrent-Connection-Based-Download-Server",
+      "repo": "https://github.com/abwalls/Concurrent-Connection-Based-Download-Server",
+      "media": [],
+      "start": "2018-10",
+      "end": "2018-12",
+      "role": "Co-Creator",
+      "summary": "<p style='margin-right: 150px;'>Basic download server written in C++ using sockets to allow clients to connect and download files</p>",
+      "description": "<p style='margin-right: 150px;'>Basic download server written in C++ using sockets to allow clients to connect and download files. Worked with a partner (who built client application) to establish a network protocol establishing a small set of messages that were used to coordinate all communications between the client(s) and server.</p>",
+      "highlights": [
+        "Supports concurrent use with multiple clients",
+        "Uses socket utility functions with error checking for all network actions"
+        
+      ],
+      "keywords": [
+      
+      ]
+    }
+  ],
+  "education": {
+    "summary": "",
+    "level": "degree",
+    "degree": "BS Computer Science",
+    "history": [
+      {
+        "institution": "Kutztown University",
+        "title": "BS Computer Science",
+        "url": "",
+        "start": "2017-01",
+        "end": "2019-05",
+        "grade": "3.71",
+        "summary": "Graduating Fall 2019 with over 140 hours credit - Current GPA: 3.71",
+        "curriculum": [
+          
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Programming Languages",
+        "level": "intermediate",
+        "skills": [
+          "C/C++,",
+          "Java,",
+          "Python"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "level": "beginner",
+        "skills": [
+          "HTML5,",
+          "CSS3,",
+          "JavaScript,",
+          "MySql,",
+          "NoSql,",
+          "GraphQL,",
+          "React/React Native,",
+          "WordPress"
+        ]
+      },
+   {
+        "name": "Team Tools",
+        "level": "beginner",
+        "skills": [
+          "Agile,",
+          "Scrum,",
+          "GitHub,",
+          "Slack,",
+          "Trello"
+        ]
+      },
+      {
+        "name": "Other Tools",
+        "level": "intermediate",
+        "skills": [
+          "AWS,",
+          "Android Studio,",
+          "Expo Client,",
+          "Processing IDE,",
+          "Weka"
+        ]
+      }
+    ],
+    "list": []
+  },
+  
+  "recognition": [
+    {
+      "flavor": "award",
+      "from": "Brigham Young University, East Tennessee State University, and Kutztown University",
+      "title": "DEAN'S LIST",
+      "event": "",
+      "url": "",
+      "date": "   ",
+      "summary": "For Summer '09, Fall '10, Spring '17, Fall '17, Spring '18, and Fall '18 Semesters"
+    },
+    {
+      "flavor": "award",
+      "from": "Boy Scouts of America",
+      "title": "Eagle Scout",
+      "event": "",
+      "date": "    ",
+      "summary": "Late '08, Circle Ten Council (TX)"
+    }
+  ], 
+  "languages": [
+    {
+      "language": "English",
+      "level": "native"
+    },
+    {
+      "language": "Spanish",
+      "level": "beginner"
+    }
+  ]
+  
+}
