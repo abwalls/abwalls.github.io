@@ -176,7 +176,7 @@
 
 		&.brands {
 			&:before {
-				font-family: 'Font Awesome 5 Brands';
+				font-family: 'Source Sans Pro';
 			}
 		}
 	}
@@ -408,8 +408,9 @@
 		color: #000000;
 		padding-bottom:1em; 
 		text-align: left;
-		font-family: 'Font Awesome 5 Brands';
-		font-size: 1rem;
+		font-family: 'Source Sans Pro';
+		font-size: 1.25rem;
+		font-weight: bold;
 	}
 
 	#avatar {
@@ -417,6 +418,7 @@
 		width: 8em;
 		height: 8em;
 		margin-right: 1rem;
+		margin-top: .5rem;
 		border: 1px solid #000000;
 		border-radius: 5px;
 		background-color: rgba(107, 171, 243, .8);
@@ -426,6 +428,7 @@
 		display: none;
 		padding-top: 2em;
 	}
+
 
 	//? PASTE HERE ??
 	.form-control {
