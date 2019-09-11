@@ -502,6 +502,7 @@ a:hover {
           align-items: center;
   border-bottom: 2px solid #000000;
   font-weight: bold;
+  font-size: 1.25rem;
 }
 
 #about-header-close {
@@ -509,7 +510,7 @@ a:hover {
   border: none;
   outline: none;
   background: none;
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   color: #FFFFFF;
   font-weight: bold;
 }
@@ -519,15 +520,14 @@ a:hover {
   color: #000000;
   padding-bottom: 1em;
   text-align: left;
-  font-family: 'Source Sans Pro';
   font-size: 1.25rem;
-  font-weight: bold;
 }
 
 #avatar {
   float: left;
-  width: 8em;
-  height: 8em;
+  width: 7em;
+  height: 7em;
+  max-width: 33%;
   margin-right: 1rem;
   margin-top: .5rem;
   border: 1px solid #000000;
