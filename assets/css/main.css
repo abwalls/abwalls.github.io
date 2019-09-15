@@ -516,6 +516,7 @@ a:hover {
 }
 
 #about-body {
+  background-color: rgba(255, 241, 41, 0.1);
   padding: 10px 15px;
   color: #000000;
   padding-bottom: 1em;
