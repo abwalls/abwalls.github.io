@@ -195,8 +195,8 @@ a:hover {
     transform: translate3d(0,0,0);
   }
   100% {
-    -webkit-transform: translate3d(-2250px,0,0);
-    transform: translate3d(-2250px,0,0);
+    -webkit-transform: translate3d(-1500px,0,0);
+    transform: translate3d(-1500px,0,0);
   }
 }
 
@@ -206,14 +206,14 @@ a:hover {
     transform: translate3d(0,0,0);
   }
   100% {
-    -webkit-transform: translate3d(-2250px,0,0);
-    transform: translate3d(-2250px,0,0);
+    -webkit-transform: translate3d(-1500px,0,0);
+    transform: translate3d(-1500px,0,0);
   }
 }
 
 #bg {
-  background-size: 2250px auto;
-  width: 6750px;
+  background-size: 1500px auto;
+  width: 4500px;
 }
 
 /* Overlay */
@@ -543,40 +543,40 @@ a:hover {
 
 #contact ::-webkit-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #01004e;
+  color: #FFFFFF;
   opacity: 1;
   /* Firefox */
 }
 
 #contact :-ms-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #01004e;
+  color: #FFFFFF;
   opacity: 1;
   /* Firefox */
 }
 
 #contact ::-ms-input-placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #01004e;
+  color: #FFFFFF;
   opacity: 1;
   /* Firefox */
 }
 
 #contact ::placeholder {
   /* Chrome, Firefox, Opera, Safari 10.1+ */
-  color: #01004e;
+  color: #FFFFFF;
   opacity: 1;
   /* Firefox */
 }
 
 #contact :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
-  color: #01004e;
+  color: #FFFFFF;
 }
 
 #contact ::-ms-input-placeholder {
   /* Microsoft Edge */
-  color: #01004e;
+  color: #FFFFFF;
 }
 
 .form-control {

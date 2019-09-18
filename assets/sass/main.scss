@@ -216,7 +216,7 @@
 		 top: 0;
 	}
 
-	@include bg(_misc(bg-width) * 1.5);
+	@include bg(_misc(bg-width));
 
 /* Overlay */
 
@@ -429,16 +429,16 @@
 		display: none;
 		padding-top: 2em;
 		::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-			color: #01004e;
+			color: #FFFFFF;
 			opacity: 1; /* Firefox */
 		  }
 		  
 		  :-ms-input-placeholder { /* Internet Explorer 10-11 */
-			color: #01004e;
+			color: #FFFFFF;
 		  }
 		  
 		  ::-ms-input-placeholder { /* Microsoft Edge */
-			color: #01004e;
+			color: #FFFFFF;
 		  }
 	}
 
