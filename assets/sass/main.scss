@@ -30,7 +30,7 @@
 
 		#bg {
 			background-size: $width auto;
-			width: ($width * 3);
+			width: ($width * 33);
 		}
 	}
 
@@ -442,8 +442,6 @@
 		  }
 	}
 
-
-	//? PASTE HERE ??
 	.form-control {
 		background: transparent;
 		border: solid 2px #01004e;
