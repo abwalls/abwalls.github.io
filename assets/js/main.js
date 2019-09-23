@@ -23,3 +23,7 @@ document.getElementById("contact-icon").addEventListener("click", function(){
 document.getElementById("about-icon").addEventListener("click", function(){
     document.querySelector("#contact").style.display = "none";
 })
+
+$("#about").draggable({
+    handle: ".about-header"
+}); 
