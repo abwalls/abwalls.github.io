@@ -456,7 +456,7 @@ a:hover {
 }
 
 #header nav a:hover {
-  font-size: 1.25em;
+  font-size: 1.15em;
 }
 
 #header nav a:hover:before {
@@ -488,7 +488,7 @@ a:hover {
 }
 
 #about-header {
-  background-color: #01004e;
+  background: linear-gradient(45deg, #01004e, #00eeff, #01004e);
   padding: 10px 5px 10px 15px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -520,11 +520,12 @@ a:hover {
 }
 
 #about-body {
-  background-color: rgba(255, 241, 41, 0.1);
+  background-color: rgba(0, 255, 255, 0.1);
   padding: 10px 15px;
   color: #000000;
   padding-bottom: 1em;
   text-align: left;
+  font-family: 'Palatino Linotype';
   font-size: 1.25rem;
 }
 
