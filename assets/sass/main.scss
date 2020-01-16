@@ -378,8 +378,10 @@
 		display: none;
 		background-color: #FFFFFF;
 		border: 2px solid #000000;
-		border-radius: 10px;
-		box-shadow: 2px 3px 4px rgba(0, 0, 0, 1);
+		border-radius: 5px;
+		box-shadow: 1px 1px 1px rgba(0, 0, 0, 1);
+		width: 80%;
+		margin-left: 10%;
 	}
 
 	#about-header {
@@ -408,13 +410,39 @@
 	}
 
 	#about-body {
-		background-color: rgba($color: #00ffff, $alpha: .1);
+		display: inline-block;
+		position: relative;
+		z-index: 0;
+		background-color: #FFFFFF;
 		padding: 10px 15px;
 		color: #000000;
 		padding-bottom:1em; 
-		text-align: left;
-		font-family: 'Palatino Linotype';
+		font-family: inherit;
 		font-size: 1.25rem;
+		text-align: left;
+	}
+
+	#lego {
+		position: absolute;
+		z-index: 1;
+		left: 75%;
+		top: 60%;
+		
+	}
+
+	#bubbles {
+		position: absolute;
+		z-index: 2;
+		//top: 2 em;
+		left: 65%;
+	}
+
+	#about-text {
+		position: initial;
+		z-index: 2;
+		margin-right: 40%;
+		float: left;
+
 	}
 
 	#contact {
@@ -432,6 +460,19 @@
 		  ::-ms-input-placeholder { /* Microsoft Edge */
 			color: #FFFFFF;
 		  }
+	}
+
+	.bubbles {
+		display: block;
+		background:    #999999;
+		background:    linear-gradient(#666666, #999999);
+		opacity: .30;
+		border-radius: 5px;
+		padding:       6px 16px;
+		color:         #ffffff;
+		font:          normal bold 16px/1 "Calibri", sans-serif;
+		text-align:    center;
+		text-shadow:   1px 1px #000000;		
 	}
 
 	.form-control {
