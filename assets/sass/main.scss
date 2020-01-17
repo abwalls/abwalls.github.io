@@ -14,8 +14,8 @@
 // Breakpoints.
 
 	@include breakpoints((
-		wide:      ( 1281px,  1680px ),
-		normal:    ( 737px,   1280px ),
+		wide:      ( 1181px,  1680px ),
+		normal:    ( 737px,   1180px ),
 		mobile:    ( 481px,   736px  ),
 		mobilep:   ( null,    480px  )
 	));
@@ -374,6 +374,9 @@
 			}
 		}
 	}
+
+	/* About */
+
 	#about {
 		display: none;
 		background-color: #FFFFFF;
@@ -396,7 +399,6 @@
 		&:hover{
 			cursor: grabbing;
 		}
-		
 	}
 
 	#about-header-close {
@@ -425,24 +427,41 @@
 	#lego {
 		position: absolute;
 		z-index: 1;
-		left: 75%;
-		top: 60%;
-		
+		width: 20%;
+		left: 70%;
+		top: 50%;
+	}
+
+	#lego2 {
+		height: 100%;
+		width: 100%;
+		min-width: 178px;
+		max-width: 240px;
 	}
 
 	#bubbles {
 		position: absolute;
 		z-index: 2;
-		//top: 2 em;
+		width: 40%;
+		margin-right: 50%;
 		left: 65%;
+	}
+
+	#titlebubble {
+		margin-left: 20%;
+		background: #01004e;
+		background: linear-gradient(#01004e, #00eeff);
+		opacity: .50;
+		padding: 10px 20px;
+		font: normal bold 18px/1 "Calibri", sans-serif;
 	}
 
 	#about-text {
 		position: initial;
 		z-index: 2;
-		margin-right: 40%;
+		margin-right: 35%;
 		float: left;
-
+		font-family: 'Comic Sans MS';
 	}
 
 	#contact {
@@ -472,7 +491,7 @@
 		color:         #ffffff;
 		font:          normal bold 16px/1 "Calibri", sans-serif;
 		text-align:    center;
-		text-shadow:   1px 1px #000000;		
+		text-shadow:   1px 1px #000000;	
 	}
 
 	.form-control {
@@ -551,6 +570,27 @@
 		/* BG */
 
 			@include bg(_misc(bg-width) * 0.5);
+
+		/* About */
+
+		#lego {
+			//position: relative;
+			width: 20%;
+			left: 40%;
+			top: 70%;
+		}
+
+		#bubbles {
+			position: relative;
+			width: 90%;
+			margin-right: 50%;
+			left: 15%;
+		}
+
+		#about-text {
+			margin-right: 0%;
+		}	
+
 
 	}
 
