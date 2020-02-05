@@ -213,7 +213,7 @@ a:hover {
 
 #bg {
   background-size: 1500px auto;
-  width: 49500px;
+  width: 45000px;
 }
 
 /* Overlay */
@@ -708,7 +708,7 @@ form .submit:hover {
   }
   #bg {
     background-size: 1500px auto;
-    width: 49500px;
+    width: 45000px;
   }
 }
 
@@ -741,7 +741,7 @@ form .submit:hover {
   }
   #bg {
     background-size: 750px auto;
-    width: 24750px;
+    width: 22500px;
   }
   /* About */
   #lego {
@@ -792,7 +792,7 @@ form .submit:hover {
   }
   #bg {
     background-size: 300px auto;
-    width: 9900px;
+    width: 9000px;
   }
   /* Header */
   #header h1 {
@@ -837,7 +837,7 @@ form .submit:hover {
   }
   #bg {
     background-size: 412.5px auto;
-    width: 13612.5px;
+    width: 12375px;
   }
   /* Header */
   #header nav {
