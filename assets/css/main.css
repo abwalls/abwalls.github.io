@@ -523,56 +523,23 @@ a:hover {
 }
 
 #about-body {
-  display: inline-block;
+  display: block;
   position: relative;
-  z-index: 0;
-  background-color: #FFFFFF;
-  padding: 10px 15px;
-  color: #000000;
-  padding-bottom: 1em;
-  font-family: inherit;
-  font-size: 1.25rem;
+  background: linear-gradient(185deg, #696969, #C0C0C0, #696969);
+  color: #FFFFFF;
   text-align: left;
+  padding: 1em;
+  font-size: 1.25rem;
 }
 
-#lego {
-  position: absolute;
-  z-index: 1;
-  width: 20%;
-  left: 70%;
-  top: 50%;
+#about-thanks {
+  font-size: 3em;
+  text-align: center;
+  line-height: 1em;
 }
 
-#lego2 {
-  height: 100%;
-  width: 100%;
-  min-width: 178px;
-  max-width: 240px;
-}
-
-#bubbles {
-  position: absolute;
-  z-index: 2;
-  width: 40%;
-  margin-right: 50%;
-  left: 65%;
-}
-
-#titlebubble {
-  margin-left: 20%;
-  background: #01004e;
-  background: -webkit-gradient(linear, left top, left bottom, from(#01004e), to(#00eeff));
-  background: linear-gradient(#01004e, #00eeff);
-  opacity: .50;
-  padding: 10px 20px;
-  font: normal bold 18px/1 "Calibri", sans-serif;
-}
-
-#about-text {
-  position: initial;
-  z-index: 2;
-  float: left;
-  font-family: 'Comic Sans MS';
+#about-pic {
+  text-align: center;
 }
 
 #contact {
@@ -616,20 +583,6 @@ a:hover {
 #contact ::-ms-input-placeholder {
   /* Microsoft Edge */
   color: #FFFFFF;
-}
-
-.bubbles {
-  display: block;
-  background: #999999;
-  background: -webkit-gradient(linear, left top, left bottom, from(#666666), to(#999999));
-  background: linear-gradient(#666666, #999999);
-  opacity: .30;
-  border-radius: 5px;
-  padding: 6px 16px;
-  color: #ffffff;
-  font: normal bold 16px/1 "Calibri", sans-serif;
-  text-align: center;
-  text-shadow: 1px 1px #000000;
 }
 
 .form-control {
@@ -713,7 +666,7 @@ form .submit:hover {
 }
 
 /* Normal */
-@media screen and (max-width: 1180px) {
+@media screen and (max-width: 1280px) {
   /* Basic */
   body, input, select, textarea {
     font-size: 12pt;
@@ -744,17 +697,6 @@ form .submit:hover {
     width: 22500px;
   }
   /* About */
-  #lego {
-    width: 20%;
-    left: 40%;
-    top: 70%;
-  }
-  #bubbles {
-    position: relative;
-    width: 90%;
-    margin-right: 50%;
-    left: 15%;
-  }
   #about-text {
     margin-right: 0%;
   }
