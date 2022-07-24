@@ -488,7 +488,7 @@
           <w:rPr>
             <w:sz-cs w:val="20"/>
           </w:rPr>
-          <w:t>(484)951-5591</w:t>
+          <w:t>(484) 951-5591</w:t>
         </w:r>
         <w:r>
           <w:rPr>
@@ -506,7 +506,7 @@
           </w:r>
         </w:hlink>
       </w:p>
-      <w:r><w:rPr></w:rPr><w:t>&lt;a href=&apos;</w:t></w:r><w:hlink w:dest="https://www.linkedin.com/in/andrew-walls-a88a0b14/'>LinkedIn</a><a"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>https://www.linkedin.com/in/andrew-walls-a88a0b14/&apos;&gt;LinkedIn&lt;/a&gt;&lt;a</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> href=&apos;</w:t></w:r><w:hlink w:dest="https://github.com/abwalls'&gt"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>https://github.com/abwalls&apos;&amp;gt</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>;      GitHub&lt;/a&gt; &lt;a href=&apos;</w:t></w:r><w:hlink w:dest="https://abwalls.github.io'&gt"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>https://abwalls.github.io&apos;&amp;gt</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>;   Website&lt;/a&gt;&lt;br&gt;Recent computer science graduate with a passion for development and technology</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>&lt;a href=&apos;</w:t></w:r><w:hlink w:dest="https://www.linkedin.com/in/andrew-walls-a88a0b14/'>LinkedIn</a><a"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>https://www.linkedin.com/in/andrew-walls-a88a0b14/&apos;&gt;LinkedIn&lt;/a&gt;&lt;a</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t> href=&apos;</w:t></w:r><w:hlink w:dest="https://github.com/abwalls'&gt"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>https://github.com/abwalls&apos;&amp;gt</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>;      GitHub&lt;/a&gt; &lt;a href=&apos;</w:t></w:r><w:hlink w:dest="https://abwalls.github.io'&gt"><w:r><w:rPr><w:rStyle w:val="Hyperlink"/></w:rPr><w:t>https://abwalls.github.io&apos;&amp;gt</w:t></w:r></w:hlink><w:r><w:rPr></w:rPr><w:t>;   Website&lt;/a&gt;&lt;br&gt;Upcoming Developer &amp; Fintech Professional</w:t></w:r>
       <wx:sub-section>
   <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
     <w:pPr>
@@ -546,7 +546,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>C++/C#,, Java,, JavaScript,, Prolog,, Python,, R</w:t>
+            <w:t>C++/C#,, JavaScript,, Python,, R,, Sql,, NoSql</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -572,33 +572,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>HTML5,, CSS3,, jQuery,, Sql,, NoSql,, GraphQL,, React/React Native,, Sass</w:t>
-          </w:r>
-        </w:p>
-      </w:tc>
-    </w:tr>
-
-
-    <w:tr wsp:rsidR="00427ECC" wsp:rsidTr="00FD3B33">
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="3000" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:t>Team Tools:</w:t>
-          </w:r>
-        </w:p>
-      </w:tc>
-      <w:tc>
-        <w:tcPr>
-          <w:tcW w:w="8000" w:type="dxa"/>
-          <w:shd w:val="clear" w:color="auto" w:fill="auto"/>
-        </w:tcPr>
-        <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
-          <w:r>
-            <w:t>Agile,, Git,, MS Office,, Salesforce,, Slack,, Trello</w:t>
+            <w:t>AWS,, HTML5,, CSS3,, jQuery,, Outsystems,, React/React Native,, Sass,, Swagger</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -624,7 +598,7 @@
         </w:tcPr>
         <w:p wsp:rsidR="00427ECC" wsp:rsidRDefault="00427ECC" wsp:rsidP="00427ECC">
           <w:r>
-            <w:t>AWS,, Android Studio,, Expo,, JupyterLab,, Processing IDE,, Weka</w:t>
+            <w:t>Android Studio,, Expo,, Git,, JupyterLab,, Postman,, Slack,, TFS,, Twilio,, Weka</w:t>
           </w:r>
         </w:p>
       </w:tc>
@@ -655,7 +629,109 @@
         </w:tabs>
       </w:pPr>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Tester, </w:t>
+        <w:t>Developer II, </w:t>
+      </w:r>
+      <w:hlink w:dest="https://www.savanainc.com">
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
+          <w:t>Savana Inc.</w:t>
+        </w:r>
+      </w:hlink>
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>Mar 2020 — Present</w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 135px;&amp;apos;&amp;gt;Originally hired as an Outsystems Developer working on a relatively new customer/account servicing solution for the banking industry, later transitioned more to .NET development with the communications team delivering customized notifications, reports, and statements to our clients&amp;lt;/p&amp;gt;</w:t></w:r>
+    </w:p>
+
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Gained vital experience collaborating with team members and various ecosystem partners delivering projects in an Agile manner&amp;lt;/p&amp;gt;</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Helped create a dynamic API consisting of 200+ notification templates along with several calling services using technologies including webhooks and websockets to trigger notifications in response to third party events&amp;lt;/p&amp;gt;</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Used internal work flow tools to design a new statements exception process for correcting statements generated with errors&amp;lt;/p&amp;gt;</w:t></w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:pStyle w:val="ListParagraph"/>
+        <w:listPr>
+          <w:ilvl w:val="0"/>
+          <w:ilfo w:val="1"/>
+          <wx:t wx:val="•"/>
+          <wx:font wx:val="Calibri"/>
+        </w:listPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Generated series of custom reports related to notifications/chatbot messages and scheduled them to run regularly&amp;lt;/p&amp;gt;</w:t></w:r>
+    </w:p>
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:t>Testing Agent, </w:t>
       </w:r>
       <w:hlink w:dest="https://www.usertesting.com/">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
@@ -672,7 +748,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>Nov 2019 — Present</w:t>
+        <w:t>Nov 2019 — Mar 2020</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -697,7 +773,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Provide meaningful UI/UX insights to companies looking for real world feedback&amp;lt;/p&amp;gt;</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Provided meaningful UI/UX insights to companies looking for real world feedback online&amp;lt;/p&amp;gt;</w:t></w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
       <w:pPr>
@@ -713,93 +789,6 @@
         </w:rPr>
       </w:pPr>
       <w:r><w:rPr></w:rPr><w:t>5-star review record</w:t></w:r>
-    </w:p>
-
-  </wx:sub-section>
-
-
-  <wx:sub-section>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
-      <w:pPr>
-        <w:pStyle w:val="Heading2"/>
-        <w:tabs>
-          <w:tab w:val="right" w:pos="9360"/>
-        </w:tabs>
-      </w:pPr>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>Grocery Team Member, </w:t>
-      </w:r>
-      <w:hlink w:dest="https://www.wholefoodsmarket.com/stores/allentown">
-        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:rPr>
-            <w:rStyle w:val="Hyperlink"/>
-          </w:rPr>
-          <w:t>Whole Foods Market</w:t>
-        </w:r>
-      </w:hlink>
-      <w:r wsp:rsidR="00EA0B64">
-        <w:tab/>
-      </w:r>
-      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:rPr>
-          <w:rStyle w:val="FromTo"/>
-        </w:rPr>
-        <w:t>Sep 2016 — Present</w:t>
-      </w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 135px;&amp;apos;&amp;gt;Part-time overnight team member primarily responsible for receiving trucks and stocking shelves&amp;lt;/p&amp;gt;</w:t></w:r>
-    </w:p>
-
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Helped implement several new programs following Amazon&amp;apos;s acquisition of the company&amp;lt;/p&amp;gt;</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Trained and certified to use electric pallet jack and loading dock</w:t></w:r>
-    </w:p>
-    <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
-      <w:pPr>
-        <w:pStyle w:val="ListParagraph"/>
-        <w:listPr>
-          <w:ilvl w:val="0"/>
-          <w:ilfo w:val="1"/>
-          <wx:t wx:val="•"/>
-          <wx:font wx:val="Calibri"/>
-        </w:listPr>
-        <w:rPr>
-          <w:sz-cs w:val="20"/>
-        </w:rPr>
-      </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Multiple awards for performing beyond expectations</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -886,7 +875,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Helped in warehouse and at recycling events including frequent use of forklift&amp;lt;/p&amp;gt;</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 160px;&amp;apos;&amp;gt;Created Shopify website to funnel sales from eBay to reduce fees paid by the company by 9% on direct sales&amp;lt;/p&amp;gt;</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -932,7 +921,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2018-08 — Present</w:t>
+        <w:t>2018-08 — 2018-12</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -941,7 +930,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 120px;&amp;apos;&amp;gt;First experience leading a team through the full development process. We started with class/uml diagrams, software development and requirement specification sheets, flow-charts, etc. and eventually began coding our project. While we fell short of our original goals for the project in the given time frame, the agile development process gave us a working prototype meeting all of our architectural needs while leaving many of the desired features to be completed down the road&amp;lt;/p&amp;gt;</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 120px;&amp;apos;&amp;gt;First experience leading a team through the full development process starting with class/uml diagrams, software requirement specification sheets, flow-charts, etc. before coding our project. While we fell short of our original goals for the project in the given time frame (one semester), the agile development process gave us a working prototype meeting all of our architectural needs while leaving many of the desired features to be completed down the road&amp;lt;/p&amp;gt;</w:t></w:r>
     </w:p>
 
     <w:p wsp:rsidR="00C146CA" wsp:rsidRDefault="009452CA" wsp:rsidP="00C146CA">
@@ -987,7 +976,7 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 140px;&amp;apos;&amp;gt;Learned how to collaborate effectively using online tools to work concurrently on the same code base&amp;lt;/p&amp;gt;</w:t></w:r>
+      <w:r><w:rPr></w:rPr><w:t>&amp;lt;p style=&amp;apos;margin-right: 140px;&amp;apos;&amp;gt;Learned how to collaborate effectively using online version management tools to work concurrently on the same code base&amp;lt;/p&amp;gt;</w:t></w:r>
     </w:p>
 
   </wx:sub-section>
@@ -1138,7 +1127,7 @@
       </w:pPr>
       
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
-          <w:t>Dean&amp;apos;s List</w:t>
+          <w:t>Certified Cloud Practitioner</w:t>
         </w:r>
       
       <w:r wsp:rsidR="00EA0B64">
@@ -1148,7 +1137,7 @@
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>   </w:t>
+        <w:t>    </w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1157,7 +1146,43 @@
           <w:sz-cs w:val="20"/>
         </w:rPr>
       </w:pPr>
-      <w:r><w:rPr></w:rPr><w:t>Multiple Semesters</w:t></w:r>
+      
+    </w:p>
+
+
+  </wx:sub-section>
+
+
+  <wx:sub-section>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">
+      <w:pPr>
+        <w:pStyle w:val="Heading2"/>
+        <w:tabs>
+          <w:tab w:val="right" w:pos="9360"/>
+        </w:tabs>
+      </w:pPr>
+      
+        <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:t>Certified Secure Developer</w:t>
+        </w:r>
+      
+      <w:r wsp:rsidR="00EA0B64">
+        <w:tab/>
+      </w:r>
+      <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
+        <w:rPr>
+          <w:rStyle w:val="FromTo"/>
+        </w:rPr>
+        <w:t>    </w:t>
+      </w:r>
+    </w:p>
+    <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
+      <w:pPr>
+        <w:rPr>
+          <w:sz-cs w:val="20"/>
+        </w:rPr>
+      </w:pPr>
+      
     </w:p>
 
 
