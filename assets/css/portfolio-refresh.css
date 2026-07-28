@@ -232,7 +232,7 @@ body.modal-open {
 	#about {
 		width: calc(100vw - 1rem);
 		max-height: calc(100vh - 1rem);
-		overflow-y: auto;
+		overflow: hidden;
 		border-radius: 16px;
 	}
 
@@ -261,6 +261,12 @@ body.modal-open {
 	#about-pic img {
 		max-width: 118px;
 		max-height: 145px;
+	}
+}
+
+@media screen and (max-height: 600px) {
+	#about {
+		overflow-y: auto;
 	}
 }
 
