@@ -3,16 +3,15 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
 <head>
-	<title>Andrew Walls Homepage</title>
+	<title>Andrew Walls | AI-Native Engineer</title>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<meta name="description" content="Andrew Walls is an experienced .NET developer and AI-native product builder specializing in fintech, AECO, cloud systems, and revenue-focused software." />
 	<link rel="stylesheet" href="assets/css/wickedcss.min.css">
 	<link rel="stylesheet" href="assets/css/main.css" />
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js" type="text/javascript"></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="assets/css/portfolio-refresh.css" />
 	<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 </head>
 <body class="is-preload">
@@ -21,56 +20,78 @@
 		<div id="overlay"></div>
 		<div id="main">
 
-		<!-- Header -->
 			<header id="header">
 				<h1>Andrew Walls</h1>
-				<p>Programmer &nbsp;&bull;&nbsp; Data Scientist &nbsp;&bull;&nbsp;Problem Solver</p>
-				<nav>
+				<p class="professional-tagline">
+					<span>AI-Native Engineer</span>
+					<span>Fintech &amp; AECO Product Builder</span>
+					<span>Revenue-Focused Problem Solver</span>
+				</p>
+				<nav aria-label="Professional links">
 					<ul>
-						<li><a class="icon fab fa-user" id="about-icon">About</a></li>
+						<li><a class="icon fab fa-user" id="about-icon" role="button" tabindex="0">About</a></li>
 						<li><a href="AndrewWallsResume.html" class="icon fab fa-file">Resume</a></li>
 						<li><a href="https://www.linkedin.com/in/andrew-walls-a88a0b14/" class="fab fa-linkedin">LinkedIn</a></li>
-						<li><a href="https://github.com/abwalls" class="fab fa-github">Github</a></li>
-						<li><a class="icon fab fa-envelope" id="contact-icon">Contact</a></li>
+						<li><a href="https://github.com/abwalls" class="fab fa-github">GitHub</a></li>
+						<li><a class="icon fab fa-envelope" id="contact-icon" role="button" tabindex="0">Contact</a></li>
 					</ul>
 				</nav>
-				<div class="about" id="about">
-					<div class="about-header"id="about-header">
-						<div id="about-header-title">ABOUT ME:</div>
-						<button data-close-button id="about-header-close">&times;</button>
+
+				<div class="modal-backdrop" id="about-backdrop" aria-hidden="true"></div>
+				<section class="about" id="about" role="dialog" aria-modal="true" aria-labelledby="about-header-title" aria-hidden="true">
+					<div class="about-header" id="about-header">
+						<div>
+							<span class="about-kicker">Professional profile</span>
+							<h2 id="about-header-title">About Andrew</h2>
+						</div>
+						<button type="button" data-close-button id="about-header-close" aria-label="Close About dialog">&times;</button>
 					</div>
 					<div id="about-body">
-						<div id = "about-text">
-							&emsp;Hello, my name is Andrew. I am a full-stack developer with experience creating 
-							for desktop, web, and mobile environments. For the past two years I have been working primarily in the fintech space.
-							Some other specialties of mine include data analytics, task automation, and cloud computing(AWS). I am currently
-							based in East Pennsylvania and looking to work remotely.<br><br> 
+						<div id="about-text">
+							<p>
+								I’m an experienced .NET engineer and AI-native product builder with six years of experience delivering cloud-based systems across fintech and the architecture, engineering, construction, and operations (AECO) industry.
+							</p>
+							<p>
+								I translate complex business needs into reliable APIs, automated workflows, and customer-facing product capabilities—from high-volume banking communications to subscription, entitlement, and material-intelligence platforms.
+							</p>
+							<p>
+								I learn quickly, work comfortably across backend, frontend, data, and cloud systems, and use tools such as Claude Code and OpenAI Codex to accelerate delivery without sacrificing engineering judgment. I’m most energized by practical problems where better software can streamline operations, unlock paid features, and create measurable revenue.
+							</p>
+							<div class="about-focus" aria-label="Areas of focus">
+								<span>.NET &amp; APIs</span>
+								<span>AI-Native Delivery</span>
+								<span>Cloud Systems</span>
+								<span>Product Revenue</span>
+							</div>
 						</div>
-						<div id="about-thanks">
-							Thanks for visiting!
-						</div>
-						<div id="about-pic">
-							<img src="assets/css/images/legoFigure.png" class="floater"/>
+						<div class="about-footer">
+							<div id="about-thanks">
+								<strong>Thanks for visiting.</strong>
+								<span>Based in eastern Pennsylvania and open to remote opportunities.</span>
+							</div>
+							<div id="about-pic">
+								<img src="assets/css/images/legoFigure.png" class="floater" alt="LEGO-style Andrew waving" />
+							</div>
 						</div>
 					</div>
-				</div>
+				</section>
+
 				<div class="contact" id="contact">
 					<form id="contact-form" method="POST" action="https://formspree.io/andrewwallsku@gmail.com">
-					<input name ="name" type="text" class="form-control" placeholder=" Your Name" required><br>
-					<input name ="email" type="email" class="form-control" placeholder=" Your Email" required><br>
-					<textarea name="message" class="form-control" placeholder=" Message" row="4" required></textarea><br>
-					<input type="submit" class="form-control submit" value="SEND MESSAGE">
-					</form> 
+						<input name="name" type="text" class="form-control" placeholder=" Your Name" required><br>
+						<input name="email" type="email" class="form-control" placeholder=" Your Email" required><br>
+						<textarea name="message" class="form-control" placeholder=" Message" rows="4" required></textarea><br>
+						<input type="submit" class="form-control submit" value="SEND MESSAGE">
+					</form>
 				</div>
 			</header>
 
-		<!-- Footer -->
 			<footer id="footer">
-				<span class="copyright"> Design Adapted From <a href="http://html5up.net">HTML5 UP</a> &ensp; Image: <a href="http://unsplash.com">Unsplash</a></span>
+				<span class="copyright">Design adapted from <a href="https://html5up.net">HTML5 UP</a> &ensp; Image: <a href="https://unsplash.com">Unsplash</a></span>
 			</footer>
 
 		</div>
 	</div>
+	<script src="assets/js/main.js"></script>
 </body>
-<script src="assets/js/main.js"></script>
 </html>
