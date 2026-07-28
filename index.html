@@ -25,7 +25,7 @@
 				<p class="professional-tagline">
 					<span>AI-Native Engineer</span>
 					<span>Fintech &amp; AECO Product Builder</span>
-					<span>Revenue-Focused Problem Solver</span>
+					<span>Problem Solver</span>
 				</p>
 				<nav aria-label="Professional links">
 					<ul>
@@ -37,8 +37,18 @@
 					</ul>
 				</nav>
 
-				<div class="modal-backdrop" id="about-backdrop" aria-hidden="true"></div>
-				<section class="about" id="about" role="dialog" aria-modal="true" aria-labelledby="about-header-title" aria-hidden="true">
+				<div class="contact" id="contact">
+					<form id="contact-form" method="POST" action="https://formspree.io/andrewwallsku@gmail.com">
+						<input name="name" type="text" class="form-control" placeholder=" Your Name" required><br>
+						<input name="email" type="email" class="form-control" placeholder=" Your Email" required><br>
+						<textarea name="message" class="form-control" placeholder=" Message" rows="4" required></textarea><br>
+						<input type="submit" class="form-control submit" value="SEND MESSAGE">
+					</form>
+				</div>
+			</header>
+
+			<div class="modal-backdrop" id="about-backdrop" aria-hidden="true"></div>
+			<section class="about" id="about" role="dialog" aria-modal="true" aria-labelledby="about-header-title" aria-hidden="true">
 					<div class="about-header" id="about-header">
 						<div>
 							<span class="about-kicker">Professional profile</span>
@@ -49,10 +59,10 @@
 					<div id="about-body">
 						<div id="about-text">
 							<p>
-								I’m an experienced .NET engineer and AI-native product builder with six years of experience delivering cloud-based systems across fintech and the architecture, engineering, construction, and operations (AECO) industry.
+								I’m an experienced .NET engineer and AI-native product builder with a Bachelor’s degree in Computer Science and seven years of experience delivering cloud-based systems across fintech and the architecture, engineering, construction, and operations (AECO) industry.
 							</p>
 							<p>
-								I translate complex business needs into reliable APIs, automated workflows, and customer-facing product capabilities—from high-volume banking communications to subscription, entitlement, and material-intelligence platforms.
+								I translate complex business needs into reliable APIs, automated workflows, and customer-facing product capabilities, from high-volume banking communications to subscription, entitlement, and material-intelligence platforms.
 							</p>
 							<p>
 								I learn quickly, work comfortably across backend, frontend, data, and cloud systems, and use tools such as Claude Code and OpenAI Codex to accelerate delivery without sacrificing engineering judgment. I’m most energized by practical problems where better software can streamline operations, unlock paid features, and create measurable revenue.
@@ -67,24 +77,14 @@
 						<div class="about-footer">
 							<div id="about-thanks">
 								<strong>Thanks for visiting.</strong>
-								<span>Based in eastern Pennsylvania and open to remote opportunities.</span>
+								<span>Based in eastern Pennsylvania and open to remote, hybrid, or in-office opportunities.</span>
 							</div>
 							<div id="about-pic">
 								<img src="assets/css/images/legoFigure.png" class="floater" alt="LEGO-style Andrew waving" />
 							</div>
 						</div>
 					</div>
-				</section>
-
-				<div class="contact" id="contact">
-					<form id="contact-form" method="POST" action="https://formspree.io/andrewwallsku@gmail.com">
-						<input name="name" type="text" class="form-control" placeholder=" Your Name" required><br>
-						<input name="email" type="email" class="form-control" placeholder=" Your Email" required><br>
-						<textarea name="message" class="form-control" placeholder=" Message" rows="4" required></textarea><br>
-						<input type="submit" class="form-control submit" value="SEND MESSAGE">
-					</form>
-				</div>
-			</header>
+			</section>
 
 			<footer id="footer">
 				<span class="copyright">Design adapted from <a href="https://html5up.net">HTML5 UP</a> &ensp; Image: <a href="https://unsplash.com">Unsplash</a></span>
