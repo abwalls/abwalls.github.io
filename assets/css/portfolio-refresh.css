@@ -207,6 +207,8 @@
 }
 
 #about-pic img {
+	position: relative;
+	bottom: 1.1rem;
 	display: block;
 	width: auto;
 	max-width: 165px;
@@ -259,6 +261,7 @@ body.modal-open {
 	}
 
 	#about-pic img {
+		bottom: 0.75rem;
 		max-width: 118px;
 		max-height: 145px;
 	}
