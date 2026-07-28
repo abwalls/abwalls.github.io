@@ -265,8 +265,27 @@ body.modal-open {
 }
 
 @media screen and (max-height: 600px) {
-	#about {
-		overflow-y: auto;
+	#about-header {
+		padding: 0.75rem 1rem 0.65rem;
+	}
+
+	#about-body {
+		padding: 0.65rem 1rem 0;
+		font-size: 0.78rem;
+		line-height: 1.35;
+	}
+
+	.about-focus {
+		gap: 0.35rem;
+		margin-top: 0.5rem;
+	}
+
+	#about-thanks {
+		padding-bottom: 0.5rem;
+	}
+
+	#about-pic img {
+		max-height: 125px;
 	}
 }
 
