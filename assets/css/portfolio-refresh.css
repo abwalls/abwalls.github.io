@@ -208,7 +208,7 @@
 
 #about-pic img {
 	position: relative;
-	bottom: 2rem;
+	bottom: 1rem;
 	display: block;
 	width: auto;
 	max-width: 165px;
@@ -261,7 +261,7 @@ body.modal-open {
 	}
 
 	#about-pic img {
-		bottom: 1.5rem;
+		bottom: 1rem;
 		max-width: 118px;
 		max-height: 145px;
 	}
@@ -288,6 +288,7 @@ body.modal-open {
 	}
 
 	#about-pic img {
+		bottom: 0.5rem;
 		max-height: 125px;
 	}
 }
