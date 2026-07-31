@@ -265,6 +265,37 @@ body.modal-open {
 		max-width: 118px;
 		max-height: 145px;
 	}
+
+	#header nav {
+		padding: 0;
+	}
+
+	#header nav ul {
+		display: grid;
+		grid-template-columns: repeat(6, minmax(0, 1fr));
+		width: min(100%, 25rem);
+		margin: 0 auto;
+		padding: 0;
+		row-gap: 0.6rem;
+	}
+
+	#header nav li {
+		display: block;
+		justify-self: center;
+		margin: 0;
+	}
+
+	#header nav li:nth-child(-n + 3) {
+		grid-column: span 2;
+	}
+
+	#header nav li:nth-child(4) {
+		grid-column: 2 / span 2;
+	}
+
+	#header nav li:nth-child(5) {
+		grid-column: 4 / span 2;
+	}
 }
 
 @media screen and (max-height: 600px) {
