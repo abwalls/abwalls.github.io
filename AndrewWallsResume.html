@@ -41,10 +41,8 @@
             }
             
             main {
-              box-sizing: border-box;
-              width: calc(100% - 48px);
-              max-width: 1200px;
               padding: 15px;
+              max-width: 700px;
               margin: 0 auto;
             }
             
@@ -185,6 +183,21 @@
               margin-bottom: 0;
             }
             /* End final section spacing adjustments */
+
+            /* Desktop document viewer */
+            @media screen and (min-width: 601px) {
+              html,
+              body {
+                min-height: 100%;
+                background: #333;
+              }
+
+              main {
+                min-height: 100vh;
+                background: #fff;
+                box-shadow: 0 0 18px rgba(0, 0, 0, 0.35);
+              }
+            }
 
             /* Mobile resume layout */
             @media screen and (max-width: 600px) {
