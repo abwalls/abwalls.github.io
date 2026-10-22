@@ -236,11 +236,13 @@ body.modal-open {
 
 	#about {
 		width: calc(100vw - 1rem);
-		max-height: calc(100dvh - 1rem);
+		/* Keep the entire dialog clear of Safari's top and bottom chrome. */
+		max-height: 72vh;
+		max-height: 72dvh;
 		overflow-x: hidden;
-	-webkit-overflow-scrolling: touch;
-	overscroll-behavior: contain;
-	overflow-y: auto;
+		overflow-y: auto;
+		-webkit-overflow-scrolling: touch;
+		overscroll-behavior: contain;
 		border-radius: 16px;
 	}
 
